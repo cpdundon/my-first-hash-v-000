@@ -1,7 +1,7 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-  lines = {"green" }
-  
+  lines = {"orange" => 11, "green" => 10, "red" => 15, "blue" => 5}
+  lines
 end
 
 
